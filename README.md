@@ -218,6 +218,7 @@ curl -X POST http://localhost:3000/shorten \
 ## 🪣 To Do
 
 - Add URL redirect handler (`/redirect/{code}`)
+- Restesting Docker (it's not working properly)
 - Add unit tests
 - Implement frontend UI
 - Add authentication (optional)
